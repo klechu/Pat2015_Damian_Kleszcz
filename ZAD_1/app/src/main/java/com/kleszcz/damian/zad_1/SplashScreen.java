@@ -34,8 +34,9 @@ public class SplashScreen extends Activity {
         } catch (Exception e){
             int warn = Log.WARN;
         }
-          Intent intent = new Intent(SplashScreen.this, MainActivity.class);
-           if(!isBackPress){
+            Intent intent;
+            intent = new Intent(SplashScreen.this, LoginActivity.class);
+            if(!isBackPress){
                SplashScreen.this.startActivity(intent);
            }
             SplashScreen.this.finish();

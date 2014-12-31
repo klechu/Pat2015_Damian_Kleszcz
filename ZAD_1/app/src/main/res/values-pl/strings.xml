@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ZAD_1</string>
-    <string name="start_text">Udało się i działa! ;)</string>
+    <string name="empty"> </string>
+    <string name="app_name">ZAD_2</string>
+    <string name="start_text">Jesteś zalogowany! ;)</string>
     <string name="logo">Logo</string>
+    <string name="login">Zaloguj</string>
+    <string name="email">E-mail</string>
+    <string name="emailValidation">E-mail jest niepoprawny</string>
+    <string name="pass">Hasło</string>
+    <string name="passValidation">Hasło jest niepoprawne</string>
+    <string name="log_out">Wyloguj</string>
 </resources>
