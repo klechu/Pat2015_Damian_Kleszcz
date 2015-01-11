@@ -32,7 +32,7 @@ public class SplashScreen extends Activity {
         try {
             Thread.sleep(WAIT_TIME);
         } catch (Exception e){
-            int warn = Log.WARN;
+            Log.d("Threed sleep","catch");
         }
             Intent intent;
             intent = new Intent(SplashScreen.this, LoginActivity.class);

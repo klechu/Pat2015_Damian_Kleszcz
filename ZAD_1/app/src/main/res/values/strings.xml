@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="empty"> </string>
-    <string name="app_name">ZAD_2</string>
+    <string name="app_name">ZAD_3</string>
     <string name="start_text">You are sign in! ;)</string>
     <string name="logo">Logo</string>
     <string name="login">Sign in</string>
@@ -10,4 +10,10 @@
     <string name="pass">Password</string>
     <string name="passValidation">Password is incorrect</string>
     <string name="log_out">Log out</string>
+    <string name="imageDescription">image</string>
+    <string name="title_ListView">Title:</string>
+    <string name="desc_ListView">Desc:</string>
+    <string name="message">Loading</string>
+    <string name="disconnect">Disconnect!</string>
+
 </resources>
